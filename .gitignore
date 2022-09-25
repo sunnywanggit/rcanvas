@@ -1,0 +1,8 @@
+.idea
+/*/target/
+/*/Cargo.lock
+/*/**/*.rs.bk
+/*/result.zip
+/*/.idea
+/*/node_modules
+/*/.vscode
